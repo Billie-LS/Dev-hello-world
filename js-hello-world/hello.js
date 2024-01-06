@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log(2+2)
+console.log('testing single quotes');
+console.log('it worked!');
+console.log("testing message 1", "testing message 2");
+console.log('Quoth the Raven "Nevermore"');
+console.log('Quoth the Raven "Nevermore"', " Hello, World!");
 
 /*  
 Next, PLAY! 
