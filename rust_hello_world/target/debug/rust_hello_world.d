@@ -1,0 +1,1 @@
+/Users/lokiskylizard/Desktop/LaunchCode/Unit1/Dev-hello-world/rust_hello_world/target/debug/rust_hello_world: /Users/lokiskylizard/Desktop/LaunchCode/Unit1/Dev-hello-world/rust_hello_world/src/main.rs
