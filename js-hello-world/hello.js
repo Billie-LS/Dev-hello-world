@@ -58,3 +58,10 @@ console.log('Quoth the Raven "Nevermore"', " Hello, World!");
 console.log(typeof "Hello, World!");
 console.log(typeof 17);
 console.log(typeof 3.14);
+
+console.log(typeof "17");
+console.log(typeof "3.2");
+
+console.log(typeof 'This is a string');
+console.log(typeof "And so is this");
+console.log("Bruce's beard");
