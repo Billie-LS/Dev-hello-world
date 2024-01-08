@@ -20,7 +20,7 @@ console.log(String(123.45));
 console.log(typeof String(123.45));
 
 // understanding check
-console.log(number('3'));
-console.log(number('three'));  // should be NaN
-console.log(number('3 3'));
-console.log(number('33'));
+console.log(Number('3'));
+console.log(Number('three'));  // should be NaN
+console.log(Number('3 3'));
+console.log(Number('33'));
