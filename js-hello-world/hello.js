@@ -53,3 +53,8 @@ console.log('Quoth the Raven "Nevermore"');
 
 //    9. Other. You choose!
 console.log('Quoth the Raven "Nevermore"', " Hello, World!");
+
+
+console.log(typeof "Hello, World!");
+console.log(typeof 17);
+console.log(typeof 3.14);
