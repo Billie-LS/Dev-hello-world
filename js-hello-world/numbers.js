@@ -3,6 +3,9 @@ console.log(42000);
 // note the comma defines two distinct numbers in output
 console.log(42,000);
 
+console.log(42, 17, 56, 34, 11, 4.35, 32);
+console.log(3.4, "hello", 45);
+
 /*
 JavaScript octal literal represented by 0o12 is equivalent to 
 the decimal number 10. This is because the digits in the octal system are
